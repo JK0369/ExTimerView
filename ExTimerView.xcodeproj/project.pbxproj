@@ -13,6 +13,7 @@
 		4AFA3F4A28BA3DE300B7BC0D /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4AFA3F4828BA3DE300B7BC0D /* Main.storyboard */; };
 		4AFA3F4C28BA3DE500B7BC0D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4AFA3F4B28BA3DE500B7BC0D /* Assets.xcassets */; };
 		4AFA3F4F28BA3DE500B7BC0D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4AFA3F4D28BA3DE500B7BC0D /* LaunchScreen.storyboard */; };
+		4AFA3F5728BA3E0B00B7BC0D /* TimerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4AFA3F5628BA3E0B00B7BC0D /* TimerView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		4AFA3F4B28BA3DE500B7BC0D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		4AFA3F4E28BA3DE500B7BC0D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		4AFA3F5028BA3DE500B7BC0D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		4AFA3F5628BA3E0B00B7BC0D /* TimerView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TimerView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				4AFA3F4228BA3DE300B7BC0D /* AppDelegate.swift */,
 				4AFA3F4428BA3DE300B7BC0D /* SceneDelegate.swift */,
 				4AFA3F4628BA3DE300B7BC0D /* ViewController.swift */,
+				4AFA3F5628BA3E0B00B7BC0D /* TimerView.swift */,
 				4AFA3F4828BA3DE300B7BC0D /* Main.storyboard */,
 				4AFA3F4B28BA3DE500B7BC0D /* Assets.xcassets */,
 				4AFA3F4D28BA3DE500B7BC0D /* LaunchScreen.storyboard */,
@@ -140,6 +143,7 @@
 			files = (
 				4AFA3F4728BA3DE300B7BC0D /* ViewController.swift in Sources */,
 				4AFA3F4328BA3DE300B7BC0D /* AppDelegate.swift in Sources */,
+				4AFA3F5728BA3E0B00B7BC0D /* TimerView.swift in Sources */,
 				4AFA3F4528BA3DE300B7BC0D /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
